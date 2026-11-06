@@ -1,0 +1,2 @@
+# Discord Dead Man Switch
+So this is a little proof-of-concept for a "dead man's switch" system of discord bots where each bot checks the permissions and status of other bots. If any bot detects that the permissions of any other bot was tampered with, or if any one of the bots was kicked, then it would trigger a series of events (as for what those events are, I wouldn't know).
